@@ -1,0 +1,1003 @@
+{
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.005973, 40.712775]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Takenouchi",
+				"reclong": "134.900000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1880-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"id": "23789",
+				"recclass": "H5",
+				"reclat": "35.383330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "MarI/O - Machine Learning for Video Games",
+				"charity": "Extra Life",
+				"streamer": "Seth Bling",
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/MariFlow+-+Self-Driving+Mario+Kart+w_Recurrent+Neural+Network.mp4#t=12",
+				"votes": 605,
+				"viewers": 1424,
+				"charityDonations": 643,
+				"description": "MarI/O is a program made of neural networks and genetic algorithms that kicks butt at Super Mario World.",
+				"charity_tags": ["human-services"],
+				"stream_tags": ["gaming"],
+				"thumbnail": "assets/images/streams/mario.png"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-118.243685, 34.052234]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Talampaya",
+				"reclong": null,
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1995-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "Eucrite-cm",
+				"reclat": null,
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Street Fighter V / 5 Daigo (Ryu) vs justin wong (Bison) 1v1 pro tournament E3 60 fps",
+				"charity": "NPower",
+				"streamer": "MythicalShoto",
+				"id": 2,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Street+Fighter+V+_+5+Daigo+(Ryu)+vs+justin+wong+(Bison)+1v1+pro+tournament+E3+60+fps.mp4#t=12",
+				"votes": 1533,
+				"viewers": 2502,
+				"charityDonations": 1300,
+				"description": "Street Fighter 5 Daigo Umehara vs justin wong set. Sf5 gameplay E3 2015 (pre-release). For more sf5 footage from e3.”",
+				"charity_tags": ["human-rights", "human-services"],
+				"stream_tags": ["gaming"],
+				"thumbnail": "assets/images/streams/street_fighter.png",
+				"lat": 34.052234,
+				"lon": -118.243685
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.629798, 41.878114]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tambakwatu",
+				"reclong": "112.766670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1975-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "-7.750000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Justin Timberlake - Say Something (Official Video) ft. Chris Stapleton",
+				"charity": "Kids Wish Network",
+				"streamer": "Justin Timberlake",
+				"id": 3,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Justin%2BTimberlake%2B-%2BSay%2BSomething%2B%2B28Official%2BVideo%2B29%2Bft%2B%2BChris%2BStapleton.mp4#t=12",
+				"votes": 0,
+				"viewers": 14,
+				"charityDonations": 2434,
+				"description": "Say Something ft. Chris Stapleton from Man of the Woods \n Official Music Video directed by Arturo Perez Jr. - La Blogothèque”",
+				"charity_tags": ["international", "community-development", "children"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/jt.png",
+				"lat": 41.878114,
+				"lon": -87.629798
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.16333, -7.015
+				]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tamdakht",
+				"reclong": "-7.015000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "2008-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"id": "48691",
+				"recclass": "H5",
+				"reclat": "31.163330",
+				"geolocation_city": null,
+				"nametype": "Valid"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.387982, 33.748995]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tané",
+				"reclong": "136.233330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1918-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L5",
+				"reclat": "35.433330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Drake - God’s Plan",
+				"charity": "World Vision Canada",
+				"streamer": "Drake",
+				"id": 4,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Drake%2B-%2BGod%2BE2%2B80%2B99s%2BPlan.mp4#t=40,460",
+				"votes": 67500,
+				"viewers": 123040,
+				"charityDonations": 97820,
+				"description": "Gods Plan Official Video",
+				"charity_tags": ["international", "children", "community-development"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/drake-gods-plan.png",
+				"lat": 33.748995,
+				"lon": -84.387982
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.581212, 6.244203]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Taonan",
+				"reclong": "122.900000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1965-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L5",
+				"reclat": "10.400000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "J. Balvin - Ginza",
+				"charity": "UNICEF",
+				"streamer": "J. Balvin",
+				"id": 5,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/J%2B%2BBalvin%2B-%2BGinza.mp4#t=12",
+				"votes": 20239,
+				"viewers": 44230,
+				"charityDonations": 56623,
+				"description": "Preorden ENERGÍA (Album)",
+				"charity_tags": ["international", "human-rights", "human-services", "children", "family"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/balvin.png",
+				"lat": 6.244203,
+				"lon": -75.581212
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.19179, 25.76168]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tatahouine",
+				"reclong": "10.416670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1931-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "Diogenite",
+				"reclat": "32.950000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "K.A.R.D - Don`t Recall M/V",
+				"charity": "Save The Children",
+				"streamer": "K.A.R.D",
+				"id": 6,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/K%2BA%2BR%2BD%2B-%2BDon%2B60t%2BRecall%2BM%2B2FV.mp4#t=12",
+				"votes": 35312,
+				"viewers": 50233,
+				"charityDonations": 3560,
+				"description": "K.A.R.D Project Vol.2 Don`t Recall Music Video.",
+				"charity_tags": ["children", "family"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/red_dude.png",
+				"lat": 25.76168,
+				"lon": -80.19179
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.30968, 35.04563]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tathlith",
+				"reclong": "43.733330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1967-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "19.383330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Stay - Rihanna - Cello & Piano cover by Aston @astonband",
+				"charity": "1 Million Women",
+				"streamer": "ASTON",
+				"id": 8,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Stay%2B-%2BRihanna%2B-%2BCello%2B%2B26%2BPiano%2Bcover%2Bby%2BAston%2B%2B40astonband.mp4#t=12",
+				"votes": 45545,
+				"viewers": 3566,
+				"charityDonations": 30000,
+				"description": "Cover of Rhinna hit song Stay",
+				"charity_tags": ["human-rights", "human-services", "family"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/rihanna.png",
+				"lat": 35.04563,
+				"lon": -85.30968
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.781602, 36.162664]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tauk",
+				"reclong": "44.450000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1929-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "35.133330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Best Hallelujah Cover Live From NYC Subway",
+				"charity": "New York Foundation for the Arts",
+				"streamer": "Silvia Jhony",
+				"id": 9,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Best+Hallelujah+Cover+Live+From+NYC+Subway+By+Viral+Star+Silvia+Jhony.mp4#t=12",
+				"votes": 0,
+				"viewers": 14,
+				"charityDonations": 2434,
+				"description": "Connect with Silvia Jhony: Facebook, IG, Twitte!",
+				"charity_tags": ["international", "arts"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/hallelujah.png",
+				"lat": 36.162664,
+				"lon": -86.781602
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.691706,
+					35.689487
+				]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tauti",
+				"reclong": "23.500000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1937-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "46.716670",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Best Batcha Dances 2018",
+				"charity": "Dance Aid",
+				"streamer": "Angel Vizcarra",
+				"id": 10,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Best%2BBachata%2Bdance%2B2016.mp4#t=12",
+				"votes": 1500,
+				"viewers": 2700,
+				"charityDonations": 40000,
+				"description": "Bachata Level 2 - 01/01/2016.",
+				"charity_tags": ["international", "arts"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/dance_salsa.png",
+				"lat": 35.689487,
+				"lon": 139.691706
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					135.502165,
+					34.693738
+				]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tenham",
+				"reclong": "142.950000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1879-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "-25.733330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Dytto & Fik-Shun | Skurt Reynolds",
+				"charity": "Dizzy Feet Foundation",
+				"streamer": "Dytto",
+				"id": 11,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Dytto%2B%2B26%2BFik-Shun%2B%2B7C%2BSkurt%2BReynolds.mp4#t=12",
+				"votes": 50,
+				"viewers": 4,
+				"charityDonations": 100,
+				"description": "Fik-Shun and I decided to shoot a quick video for fun to one of our favorite songs. Check it out! Comment, like, share, subscribe, and most importantly enjoy!",
+				"charity_tags": ["arts"],
+				"stream_tags": ["music"],
+				"thumbnail": "assets/images/streams/dance_duo.png",
+				"lat": 34.693738,
+				"lon": 135.502165
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.109497,
+					22.396428
+				]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tennasilm",
+				"reclong": "26.950000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1872-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L4",
+				"reclat": "58.033330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Drawing timelapse: a bottle of Oddka - hyperrealistic art",
+				"charity": "Dreaming Zebra",
+				"streamer": "Marcello Barenghi",
+				"id": 12,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Drawing+timelapse_+a+bottle+of+Oddka+-+hyperrealistic+art.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "Become a Patron and get my drawing lessons: https://www.patreon.com/marcellobarenghi /n This beautiful timelapse is so photorealistic, we forgot it was a drawing (huffingtonpost.com)",
+				"charity_tags": ["arts", "children"],
+				"stream_tags": ["art"],
+				"thumbnail": "assets/images/streams/drawing.png",
+				"lat": 22.396428,
+				"lon": 114.109497
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-46.633309, -23.55052]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Thal",
+				"reclong": "70.600000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1950-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H6",
+				"reclat": "33.400000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "New York City Spray Paint Artist",
+				"charity": "Americans for the Arts",
+				"streamer": "NYC Street PainterZ",
+				"id": 13,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/New+York+City+Spray+Paint+Artist.mp4#t=12",
+				"votes": 5605,
+				"viewers": 50424,
+				"charityDonations": 27443,
+				"description": "During our holiday we found a Spray paint artist and asked him to create a one of a kind piece for us as a memento.",
+				"charity_tags": ["arts"],
+				"stream_tags": ["art"],
+				"thumbnail": "assets/images/streams/spray_paint.png",
+				"lat": -10.55052,
+				"lon": -23.633309
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.36, 58.22]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Thika",
+				"reclong": "34.36",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "2011-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "58.22",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "How to Fix Paint Chips on Your Car",
+				"charity": "Kars for Kids",
+				"streamer": "Scotty Kilmer",
+				"id": 14,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/How+to+Fix+Paint+Chips+on+Your+Car.mp4#t=12",
+				"votes": 0,
+				"viewers": 14,
+				"charityDonations": 2434,
+				"description": "Paint chip repair. How to fix paint chips on your car, DIY with Scotty Kilmer. How to easily touch up chipped paint on your car. How to remove paint chips. A simple touch up kit and a little time is all you need. DIY car repair with Scotty Kilmer, an auto mechanic for the last 50 years.",
+				"charity_tags": ["children"],
+				"stream_tags": ["education"],
+				"thumbnail": "assets/images/streams/fixing_car.png",
+				"lat": 34.36,
+				"lon": 58.22
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.127758, 51.507351]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Thuathe",
+				"reclong": "27.583330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "2002-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H4/5",
+				"reclat": "-29.333330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Optimistic Nihilism",
+				"charity": "Internet Archive",
+				"streamer": "Kurzgesagt",
+				"id": 15,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Optimistic+Nihilism.mp4#t=12",
+				"votes": 1500,
+				"viewers": 2700,
+				"charityDonations": 40000,
+				"description": "The philosophy of Kurzgesagt.”",
+				"charity_tags": ["community-development", "human-rights", "human-services"],
+				"stream_tags": ["tech"],
+				"thumbnail": "assets/images/streams/nihilism.png",
+				"lat": 51.507351,
+				"lon": -0.127758
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.843127, 35.227087]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tianzhang",
+				"reclong": "118.990000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1986-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H5",
+				"reclat": "32.946670",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Knife Skills - Slicing Onions",
+				"charity": "Feeding America",
+				"streamer": "Cooking Made Easy",
+				"id": 16,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Knife+Skills+-+Slicing+Onions.mp4#t=12",
+				"votes": 50,
+				"viewers": 4,
+				"charityDonations": 100,
+				"description": "Nothing is more necessary than knife skills.  You make just the right sliced or diced onion and you look cool doing it.  Watch this video and learn the ways of the knife.",
+				"charity_tags": ["family", "health", "human-services"],
+				"stream_tags": ["cooking"],
+				"thumbnail": "assets/images/streams/cooking.png",
+				"lat": 35.227087,
+				"lon": -80.843127
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-106.485022, 31.761878]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tieschitz",
+				"reclong": "17.116670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1878-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H/L3.6",
+				"reclat": "49.600000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "How To Make Tamagoyaki (Recipe)",
+				"charity": "Action Against Hunger",
+				"streamer": "Arrigato Cooking",
+				"id": 17,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/How+To+Make+Tamagoyaki+(Recipe)+%E7%8E%89%E5%AD%90%E7%84%BC%E3%81%8D%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9+%EF%BC%88%E3%83%AC%E3%82%B7%E3%83%92%E3%82%9A%EF%BC%89.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "Tamagoyaki is Japanese rolled omelette with dashi and soy sauce, enjoyed during Japanese breakfast or as a bento item.",
+				"charity_tags": ["health", "human-services"],
+				"stream_tags": ["cooking"],
+				"thumbnail": "assets/images/streams/tama.png",
+				"lat": 31.761878,
+				"lon": -106.485022
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.694361, 41.49932]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tilden",
+				"reclong": "-89.683330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1927-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "38.200000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "QUICK & EASY 5 MINUTE MAKEUP TUTORIAL | Roxette Arisa",
+				"charity": "Cupids Charity",
+				"streamer": "Roxette Arisa",
+				"id": 18,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/QUICK+%26+EASY+5+MINUTE+MAKEUP+TUTORIAL+%7C+Roxette+Arisa.mp4#t=12",
+				"votes": 341,
+				"viewers": 321,
+				"charityDonations": 54.78,
+				"description": "This is a quick and easy 5 minute makeup tutorial that is a must for every girl. Ill be showing you a simple five minute makeup tutorial that I wear on a daily basis and its sooo easy and quick that youll have no problem creating this look even if youre running late. Make sure to give this video a thumbs up and subscribe to join my ROXSTARFAM.",
+				"charity_tags": ["research-policy", "health"],
+				"stream_tags": ["personalities", "tutorials"],
+				"thumbnail": "assets/images/streams/makeup.png",
+				"lat": 41.49932,
+				"lon": -81.694361
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.796988, 32.776664]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tillaberi",
+				"reclong": "1.533330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1970-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L6",
+				"reclat": "14.250000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Valencia vs Real Madrid 1-4 - All Goals & Extended Highlights - La Liga 27/01/2018 HD",
+				"charity": "Global Sports Foundation",
+				"streamer": "Real Madrid",
+				"id": 19,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Valencia+vs+Real+Madrid+1-4+-+All+Goals+%26+Extended+Highlights+-+La+Liga+27_01_2018+HD.mp4#t=12",
+				"votes": 231,
+				"viewers": 13412,
+				"charityDonations": 54.78,
+				"description": "Valencia vs Real Madrid 1-4 - All Goals & Extended Highlights - La Liga 27/01/2018 HD",
+				"charity_tags": ["community-development", "health"],
+				"stream_tags": ["sports"],
+				"thumbnail": "assets/images/streams/soccer.png",
+				"lat": 32.776664,
+				"lon": -96.796988
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.677166, 40.809941]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Timochin",
+				"reclong": "35.200000",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1807-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H5",
+				"reclat": "54.500000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Katy vs Manvel High School Football Playoff Game Dec. 5, 2014 NRG stadium",
+				"charity": "Project Fit America",
+				"streamer": "Katy HS",
+				"id": 20,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Katy+vs+Manvel+High+School+Football+Playoff+Game+Dec.+5%2C+2014+NRG+stadium.mp4#t=12",
+				"votes": 123,
+				"viewers": 1341,
+				"charityDonations": 54.78,
+				"description": "Katy vs Manvel High School Football Playoff Game Dec. 5, 2014 NRG Stadium // Due to Youtubes processing settings, the game wont be viewable in full HD for a few hours at the most. Thank You for your patience!",
+				"charity_tags": ["community-development", "health"],
+				"stream_tags": ["sports"],
+				"thumbnail": "assets/images/streams/football.png",
+				"lat": 40.809941,
+				"lon": -73.677166
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-119.813803, 39.529633]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tirupati",
+				"reclong": "79.416670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1934-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H6",
+				"reclat": "13.633330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Unboxing The $3000 Bluetooth Speaker",
+				"charity": "SOS Outreach",
+				"streamer": "Unbox Thearpy",
+				"id": 20,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Unboxing+The+%243000+Bluetooth+Speaker.mp4#t=12",
+				"votes": 111,
+				"viewers": 311,
+				"charityDonations": 54.78,
+				"description": "Devialet Gold Phantom (USA Link) - http://amzn.to/2nEMmag",
+				"charity_tags": ["family", "children"],
+				"stream_tags": ["reviews", "technology"],
+				"thumbnail": "assets/images/streams/unboxing.png",
+				"lat": 39.529633,
+				"lon": -119.813803
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.271114, 37.804364]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tissint",
+				"reclong": "-7.611230",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "2011-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "Martian (shergottite)",
+				"reclat": "29.481950",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "DRIVEN | Rolls-Royce Wraith Black Badge Edition 2017 Review",
+				"charity": "The Life You Can Save",
+				"streamer": "Driven",
+				"id": 21,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/DRIVEN+%7C+Rolls-Royce+Wraith+Black+Badge+Edition+2017+Review.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "In this bite-size review Eli Ankutse gets behind the wheel of the rare Rolls-Royce Wraith Black Badge Edition.",
+				"charity_tags": ["family", "children", "international", "human-rights", "community-development"],
+				"stream_tags": ["reviews"],
+				"thumbnail": "assets/images/streams/bently.png",
+				"lat": 37.804364,
+				"lon": -122.271114
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.199404, 38.627003]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tjabe",
+				"reclong": "111.533330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1869-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "H6",
+				"reclat": "-7.083330",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "PANDAS - OFFICIAL TRAILER [HD]",
+				"charity": "Into Films",
+				"streamer": "PANDAS",
+				"id": 22,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/PANDAS+-+OFFICIAL+TRAILER+%5BHD%5D.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "IMAX invites you to experience the world of PANDAS – narrated by Kristen Bell. The journey begins this April. #IMAXPandas",
+				"charity_tags": ["children", "arts"],
+				"stream_tags": ["film"],
+				"thumbnail": "assets/images/streams/pandas.png",
+				"lat": 38.627003,
+				"lon": -90.199404
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.821363, 38.833882]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tjerebon",
+				"reclong": "106.583330",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1922-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "L5",
+				"reclat": "-6.666670",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "DIY SLIME Nail Polish Remover?! Makeup Mythbusters w/ Karina Garcia & MayraTouchOfGlam",
+				"charity": "Mission: Moving Mountains",
+				"streamer": "Karina Garcia",
+				"id": 23,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/DIY+SLIME+Nail+Polish+Remover%3F!+Makeup+Mythbusters+w_+Karina+Garcia+%26+MayraTouchOfGlam.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "Karina Garcia and MayraTouchOfGlam test out DIY SLIME nail polish remover and tell you if its worth the hype or if its a total bust!",
+				"charity_tags": ["religion"],
+				"stream_tags": ["kids"],
+				"thumbnail": "assets/images/streams/makeup2.png",
+				"lat": 38.833882,
+				"lon": -104.821363
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.992775, 36.153982]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tomakovka",
+				"reclong": "34.766670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1905-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "LL6",
+				"reclat": "47.850000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Traveling w/ The Tribe",
+				"charity": "Food For The Poor",
+				"streamer": "Traveling w/ The Tribe",
+				"id": 24,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Traveling+with+the+Tribe+at+the+Great+Wolf+Lodge%2C+Grapevine%2C+Texas.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "Water parks are great for families, especially in hot weather.  When your family is looking for a water park in cold weather or even a vacation destination that focuses on the indoor part of a hotel or resort, look no further than the Great Wolf Lodge in Grapevine, Texas.  Its much more than just an indoor water park, not only because it has an outdoor park as well, but because it offers lots of amenities for families.",
+				"charity_tags": ["human-services"],
+				"stream_tags": ["kids"],
+				"thumbnail": "assets/images/streams/the_tribe.png",
+				"lat": 36.153982,
+				"lon": -95.992775
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-106.605553, 35.085334]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tomakovka",
+				"reclong": "34.766670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1905-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "LL6",
+				"reclat": "47.850000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "7 Minute Kama Quickie",
+				"charity": "Clean Water Fund",
+				"streamer": "Kama Movement",
+				"id": 25,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/7+Minute+Kama+Quickie.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "Work your abs, buns and pelvic floor for sexier form with Kama Movmement. Get your Kama Home Workout DVD at http://www.kamamovement.com",
+				"charity_tags": ["health", "human-services"],
+				"stream_tags": ["health"],
+				"thumbnail": "assets/images/streams/tips.png",
+				"lat": 35.085334,
+				"lon": -106.605553
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.843127, 35.227087]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tomakovka",
+				"reclong": "34.766670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1905-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "LL6",
+				"reclat": "47.850000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Kittens meowing (too much cuteness)",
+				"charity": "Save a Cat",
+				"streamer": "Cats in a Bin Series",
+				"id": 26,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/Kittens+meowing+(too+much+cuteness).mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "These meowing kittens live in my grandmothers yard. 3 of them are 5 weeks old, 4 of them are 4 weeks old. Their mothers are siblings. (June 6, 2017)",
+				"charity_tags": ["animals"],
+				"stream_tags": ["personalities"],
+				"thumbnail": "assets/images/streams/kittesss.png",
+				"lat": 35.227087,
+				"lon": -80.843127
+
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.369803, 29.760427]
+			},
+			"properties": {
+				"mass": "1",
+				"name": "Tomakovka",
+				"reclong": "34.766670",
+				"geolocation_address": null,
+				"geolocation_zip": null,
+				"year": "1905-01-01T00:00:00.000",
+				"geolocation_state": null,
+				"fall": "Fell",
+				"recclass": "LL6",
+				"reclat": "47.850000",
+				"geolocation_city": null,
+				"nametype": "Valid",
+				"title": "Hey Cat",
+				"charity": "Good Mews",
+				"streamer": "Hey Cat",
+				"id": 27,
+				"src": "http://d2t96j2mdje84t.cloudfront.net/videos/additionals/CUTE+grey+kitten+playing.mp4#t=12",
+				"votes": 345,
+				"viewers": 789,
+				"charityDonations": 54.78,
+				"description": "Join me on my blog, mollyandbeans.com - for the story about when I found the kittens!  - just search for Kittens on the side bar search thingy when you get there.  X X X",
+				"charity_tags": ["animals"],
+				"stream_tags": ["personalities"],
+				"thumbnail": "assets/images/streams/kitties2.png",
+				"lat": 29.760427,
+				"lon": -95.369803
+
+			}
+		}
+	]
+}

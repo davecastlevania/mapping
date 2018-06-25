@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>Injii Fix</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- JS/CSS
+  ================================================== -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.12/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- https://github.com/necolas/normalize.css/blob/master/normalize.css -->
+	<!-- <link rel="stylesheet" href="css/normalize.css"> -->
+	<!-- <link rel="stylesheet" href="stylesheets/style.css"> -->
+
+
+<style type="text/css">
+	/* Base Styles*/
+
+	body {
+    overflow: hidden;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+  }
+
+  svg {
+    background: #0a0a0a;
+  }
+  svg .land {
+    fill: #3B3B3B;
+    stroke: white;
+    stroke-width: 0.1;
+  }
+  svg .strike {
+    fill: #FF1493;
+    opacity: 0.7;
+    stroke: #ad005d;
+    stroke-width: 0.3;
+  }
+  svg .strike:hover {
+    fill: #9400D3;
+  }
+	.tooltip	a {
+			color: white;
+		}
+  .tooltip {
+    position: absolute;
+    border: 1px solid #3a3f4f;
+    border-radius: 7px;
+    padding: 7px 10px;
+    color: #FFF;
+    font-size: 0.8em;
+    background: #0D0D0D;
+		width: 200px;
+		text-align: center;
+  }
+  .tooltip strong {
+    font-weight: 600;
+  }
+	.tooltip ul li {
+		list-style: none;
+		margin-left: -40px;
+	}
+
+  .hidden {
+    opacity: 0;
+  }
+
+	/* Outer */
+.popup {
+	width:100%;
+	height:100%;
+	display:none;
+	position:fixed;
+	top:0px;
+	left:0px;
+	background:rgba(0,0,0,0.75);
+}
+
+/* Inner */
+.popup-inner {
+	max-width:700px;
+	width:90%;
+	padding:40px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	-webkit-transform:translate(-50%, -50%);
+	transform:translate(-50%, -50%);
+	box-shadow:0px 2px 6px rgba(0,0,0,1);
+	border-radius:3px;
+	background: rgba(0,0,0, 0.56);
+}
+
+/* Close Button */
+.popup-close {
+	width:30px;
+	height:30px;
+	padding-top:4px;
+	display:inline-block;
+	position:absolute;
+	top:0px;
+	right:0px;
+	transition:ease 0.25s all;
+	-webkit-transform:translate(50%, -50%);
+	transform:translate(50%, -50%);
+	border-radius:1000px;
+	background:rgba(0,0,0,0.8);
+	font-family:Arial, Sans-Serif;
+	font-size:20px;
+	text-align:center;
+	line-height:100%;
+	color:#fff;
+}
+
+.popup-close:hover {
+	-webkit-transform:translate(50%, -50%) rotate(180deg);
+	transform:translate(50%, -50%) rotate(180deg);
+	background:rgba(0,0,0,1);
+	text-decoration:none;
+}
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {}
+
+
+</style>
+
+
+</head>
+
+
+
+
+
+
+<body>
+  <div class="tooltip hidden">
+    <ul>
+      <!-- <li class="thumb"><img id="thumb" /></li> -->
+			<a data-popup-open="popup-1" href="#"><img id="popup" src="argentina.png" style="width: 190px; margin-left: -40px;">
+      <li class="title"><h4 id="title"></h4></li>
+      <li class="support"><strong>Supporting:</strong> <span id="supporting"></span></li>
+      <li class="votes"><p>Live Votes</p> <span id="votes"></span></li>
+      <li class="viewers"><p>Live Viewers</p> <span id="views"></span></li>
+      <!-- <li class="watch"><p>Watch Link:</p> <span id="watch"></span></li> --></a>
+    </ul>
+  </div>
+
+	<div class="popup" data-popup="popup-1">
+		<div class="popup-inner">
+			<h2 style="text-align: center; color: #FFF;">Greetings from the Draper U Alumni Network</h2>
+			<video width="100%" height="500px" controls>
+			  <source src="argentina_test.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+			</video>
+				<a data-popup-close="popup-1" href="#">Close</a></p>
+
+			<a class="popup-close" data-popup-close="popup-1" href="#">x</a>
+		</div>
+	</div>
+
+	<div style="
+position: absolute;
+					bottom: 0px;
+					display: flex;
+					left: 10px;
+					width: 100%;">
+				<img src="https://coin.injii.com/assets/images/logo--injii.svg" alt="" style="
+	    width: 140px;">
+			<img src="https://i.imgur.com/CBvuEHq.png" style="
+width: 80px;
+		height: 90px;
+		right: 50px;
+		position: absolute;
+		top: -50px;" alt="">
+		</div>
+
+
+
+
+
+  <script>
+    var _slicedToArray = function () { function sliceIterator(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {if (window.CP.shouldStopExecution(1)){break;}if (window.CP.shouldStopExecution(1)){break;} _arr.push(_s.value); if (i && _arr.length === i) break; }
+  window.CP.exitedLoop(1);
+
+  window.CP.exitedLoop(1);
+   } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"]) _i["return"](); } finally { if (_d) throw _e; } } return _arr; } return function (arr, i) { if (Array.isArray(arr)) { return arr; } else if (Symbol.iterator in Object(arr)) { return sliceIterator(arr, i); } else { throw new TypeError("Invalid attempt to destructure non-iterable instance"); } }; }();
+
+  var w = window.innerWidth,
+      h = window.innerHeight;
+
+  var mapUrl = 'https://gist.githubusercontent.com/thepeted/60242378d8c825281ea695c572ab4d51/raw/00685152c5cb34093aabc22b2c06e3df052cc981/world110m.json';
+  var dataUrl = './local.json'
+
+  var svg = d3.select('body').append('svg').attr('width', w).attr('height', h);
+
+  window.addEventListener('resize', function () {
+    d3.select('svg').attr('width', window.innerWidth).attr('height', window.innerHeight);
+  });
+
+  //define the projection settings
+  var projection = d3.geo.mercator().scale(w / 6).translate([w / 2, h / 2]).center([0, 40]);
+
+  //load topology data
+  d3.json(mapUrl, function (topo) {
+    // append topo data to svg as a group, path positions are calculated by projection function
+    var worldMap = svg.append('g');
+
+    worldMap.append("path").datum(topojson.feature(topo, topo.objects.countries)).attr('class', 'land').attr("d", d3.geo.path().projection(projection));
+
+    //define and activate zoom behaviour
+    var zoom = d3.behavior.zoom().size([h, w]).scaleExtent([0.9, 5]).on('zoom', function () {
+      worldMap.attr('transform', 'translate(' + d3.event.translate.join(',') + ') scale(' + d3.event.scale + ')');
+    });
+    svg.call(zoom);
+
+    // load meteorite and create strike data
+    d3.json(dataUrl, function (response) {
+      //remove records without any geometry data
+      var dataset = response.features.filter(function (e) {
+        return e.geometry;
+      });
+      //scale for sizing the radius of strike circles
+      var massScale = d3.scale.pow().exponent(0.5).domain([1, d3.max(dataset.map(function (e) {
+        return +e.properties.mass;
+      }))]).rangeRound([2, 40]);
+
+      var strikes = worldMap.selectAll('circle').data(dataset).enter()
+			.append('circle').attr('class', 'strike').attr('cx', function (d) {
+        return projection(d.geometry.coordinates)[0];
+      }).attr('cy', function (d) {
+        return projection(d.geometry.coordinates)[1];
+      })
+      // set intial radius to 0 (transition to mass radius defined below)
+      .attr('r', 0)
+      // reorder shapes with highest mass first so that we access
+      // all overlapping circles on hover
+      .sort(function (a, b) {
+        return b.properties.mass - a.properties.mass;
+      });
+
+
+
+
+
+			console.log(strikes);
+
+      //set up a scale to delay the start of the strike animation
+      var strikeDates = dataset.map(function (d) {
+        return new Date(d.properties.year);
+      });
+      var animateStrikeDelay = d3.time.scale()
+      // manual tweak of min date to avoid data outliers
+      .domain([new Date(1850, 0), d3.max(strikeDates)]).range([0, 4000]).clamp(true);
+
+      //dyncamically delay the creation of the strike animation
+      strikes.transition().delay(function (d) {
+        return animateStrikeDelay(new Date(d.properties.year));
+      })
+      // duration of the animation
+      .duration(1000).attr('r', function (d) {
+        return massScale(d.properties.mass);
+      });
+
+      //tooltip behaviour
+      worldMap.selectAll('circle').on('mouseup', function (d) {
+        var _d3$mouse = d3.mouse(document.body),
+            _d3$mouse2 = _slicedToArray(_d3$mouse, 2),
+            x = _d3$mouse2[0],
+            y = _d3$mouse2[1];
+
+        //populate tootip with data
+
+
+        // d3.select('#name').text(d.properties.name);
+        // d3.select('#class').text(d.properties.recclass);
+        // d3.select('#mass').text(d.properties.mass);
+        // d3.select('#lat').text(d.properties.reclat);
+        // d3.select('#lon').text(d.properties.reclong);
+        // d3.select('#year').text(d.properties.year.split('-', 1));
+
+        // d3.select('#thumb').text(d.properties.thumbnail);
+
+        d3.select('#title').text(d.properties.title);
+        d3.select('#supporting').text(d.properties.charity);
+        d3.select('#votes').text(d.properties.votes);
+        d3.select('#views').text(d.properties.viewers);
+        d3.select('#watch').text("Video ID - " + d.properties.id);
+
+
+        //show tooltip
+        d3.select('.tooltip').classed('hidden', false).style('left', x + 10 + 'px').style('top', y + 10 + 'px');
+      });
+      //hide tooltip
+      worldMap.selectAll('circle').on('mousedown', function (d) {
+        d3.select('.tooltip').classed('hidden', true);
+      });
+    });
+  });
+
+		var mapPoints = $("circle.strike");
+
+		console.log(mapPoints);
+
+		mapPoints.append("<p>Test</p>")
+
+		//----- OPEN
+		$('[data-popup-open]').on('click', function(e) {
+			var targeted_popup_class = jQuery(this).attr('data-popup-open');
+			$('[data-popup="' + targeted_popup_class + '"]').fadeIn(350);
+
+			e.preventDefault();
+		});
+
+		//----- CLOSE
+		$('[data-popup-close]').on('click', function(e) {
+			var targeted_popup_class = jQuery(this).attr('data-popup-close');
+			$('[data-popup="' + targeted_popup_class + '"]').fadeOut(350);
+
+			e.preventDefault();
+		});
+
+
+  </script>
+</body>
+</html>
